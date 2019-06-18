@@ -125,6 +125,9 @@ The below figures for historical trends are close estimates:
             * Inocybe: 1
 
 ### Community Current Status
+The project is currently in process of finalizing a draft plan for the increased diversity. The draft plant has been reviewed by the technical commitee. The next step is the review and approval by the OPX board. Here is a link to the draft plan:
+[https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr](https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr)
+
 Snapshot of the candidate project’s community.
 #### Committer statistics
 * Number of committers: 10
