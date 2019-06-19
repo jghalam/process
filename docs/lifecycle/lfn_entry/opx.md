@@ -1,21 +1,5 @@
 # OpenSwitch (OPX) Project Data
 
-## Instructions
-
-This document is a template to collect the data LFN thinks are relevant to LFN Project health. Projects will copy this template and instantiate it with their data as a part applying for lifecycle state transitions.
-
-`mkdir -p <relevant lifecycle transition dir>/<project name>/ cp project_data_template.rst !$/project_data.rst`
-
-If the project has instantiated this template before they are welcome to start from that base and update it with any new information. Be sure that the data requested by the primary copy of the Project Data Template has not changed.
-
-These instructions should be removed from the instantiated template.
-
-Here is the file for Tungsten Fabric. It’s a work in progress too: 
-
-[https://gerrit.linuxfoundation.org/infra/gitweb?p=lfn%2Fprocess.git;hb=refs%2Fchanges%2F80%2F12880%2F1;f=docs%2Flifecycle%2Flfn_entry%2Ftungsten_fabric%2Fproject_data.rst](https://gerrit.linuxfoundation.org/infra/gitweb?p=lfn%2Fprocess.git;hb=refs%2Fchanges%2F80%2F12880%2F1;f=docs%2Flifecycle%2Flfn_entry%2Ftungsten_fabric%2Fproject_data.rst)  
-
-[https://gerrit.linuxfoundation.org/infra/#/c/12880/36/docs/lifecycle/lfn_entry/tungsten_fabric/project_data.rst](https://gerrit.linuxfoundation.org/infra/#/c/12880/36/docs/lifecycle/lfn_entry/tungsten_fabric/project_data.rst) 
-
 ## Project Data
 
 Data that describes a Linux Foundation Networking Project. Provide links to authoritative public content or steps to reproduce results when possible.
@@ -125,7 +109,7 @@ The below figures for historical trends are close estimates:
             * Inocybe: 1
 
 ### Community Current Status
-The project is currently in process of finalizing a draft plan for the increased diversity. The draft plant has been reviewed by the technical commitee. The next step is the review and approval by the OPX board. Here is a link to the draft plan:
+The project is currently in process of finalizing a draft plan for the increased diversity. The draft plan has been reviewed by the technical commitee. The next step is the review and approval by the OPX board. Here is a link to the draft plan:
 
 [https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr](https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr)
 
