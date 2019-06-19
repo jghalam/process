@@ -129,6 +129,7 @@ The project is currently in process of finalizing a draft plan for the increased
 
 [https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr](https://docs.google.com/document/d/1TEsz8ZK7osun2kSF8F1Zoun8rw0flD0vIKZ1JiCqE0g/edit#heading=h.zfmhk6hhcejr)
 
+
 Snapshot of the candidate project’s community.
 #### Committer statistics
 * Number of committers: 10
