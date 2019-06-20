@@ -19,7 +19,7 @@ Data that describes a Linux Foundation Networking Project. Provide links to auth
 * Planned future release schedule
     * OPX 3.2.0 – TBD
 #### Statement of alignment with LFN Charter/Mission
-Openswitch provides the LFN ecosystem with an Network Operating System (NOS) solution for white box switches, that supplement networking, instrumentation and management features with enhanced automation capabilities. Architected as a scalable, cloud-ready, agile solution, the open source OpenSwitch software implements flexible infrastructure to enable both network operators and vendors to rapidly on-board NOS applications. Build on top of unmodified Linux distribution, OpenSwitch allows other vendors to rapidly onboard new platforms.
+Openswitch provides the LFN ecosystem with an Network Operating System (NOS) solution for white box switches, that supplements networking, instrumentation and management features with enhanced automation capabilities. Architected as a scalable, cloud-ready, agile solution, the open source OpenSwitch software implements flexible infrastructure to enable both network operators and vendors to rapidly on-board NOS applications. Build on top of unmodified Linux distribution, OpenSwitch allows other vendors to rapidly onboard new platforms.
 
 Backed by industry leaders Dell EMC, Cavium, and Inocybe, OPX supports a rich set of L2/L3 networking features that are compatible with a wide variety of 10G, 25G, 40G and 100G hardware platforms from multiple vendors. 
 
@@ -160,7 +160,7 @@ Snapshot of the candidate project’s community.
     * Cavium: Platform and ASIC code contributions
     * Mellanox: ASIC code contributions
     * Inocybe: DHCP Relay, monitoring/telemetry software, and other small contributions.
-    * Broadcom: monitoring and telemetry software/drivers.
+    * Broadcom: Monitoring and telemetry software/drivers.
 
 ### Project Functionality
 #### Summary of candidate project functionality 
@@ -226,7 +226,8 @@ Details about the tooling used by the candidate project.
 #### Mailing lists
 * [https://lists.openswitch.net/](https://lists.openswitch.net/)
 * dev@ primary mailing list 556 subscribers. 
-* Public TSC list, Private Governing board list.
+* tsc@ Public TSC list
+* Private Governing board list.
 * Active chat forum [https://chat.openswitch.net](https://chat.openswitch.net)  with 285 subscribers 
 * To what extent are external/private mailing lists used? None
 
